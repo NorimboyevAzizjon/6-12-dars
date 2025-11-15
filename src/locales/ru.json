@@ -1,0 +1,37 @@
+{
+  "header": {
+    "main": "Главная",
+    "uzbekistan": "Узбекистан",
+    "world": "Мир",
+    "economy": "Экономика",
+    "society": "Общество",
+    "sport": "Спорт",
+    "technology": "Технологии",
+    "audio": "Аудио",
+    "saved": "Сохраненные",
+    "language": "Язык"
+  },
+  "footer": {
+    "about_site": "О сайте",
+    "contact": "Контакты",
+    "ads": "Реклама",
+    "team": "Команда Kun.uz",
+    "download_on": "Скачать на",
+    "get_it_on": "GET IT ON",
+    "app_store": "App Store",
+    "google_play": "Google Play"
+  },
+  "common": {
+    "views": "просмотры",
+    "save": "Сохранить",
+    "saved": "Сохранено",
+    "back": "Назад",
+    "loading": "Загрузка...",
+    "no_saved": "Нет сохраненных постов",
+    "save_prompt": "Нажмите ❤️ чтобы сохранить посты"
+  },
+  "news": {
+    "video": "ВИДЕО",
+    "watch": "Смотреть"
+  }
+}

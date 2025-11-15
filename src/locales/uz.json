@@ -1,0 +1,37 @@
+{
+  "header": {
+    "main": "Asosiy",
+    "uzbekistan": "O'zbekiston",
+    "world": "Jahon",
+    "economy": "Iqtisodiyot",
+    "society": "Jamiyat",
+    "sport": "Sport",
+    "technology": "Texnologiya",
+    "audio": "Audio",
+    "saved": "Saqlanganlar",
+    "language": "Til"
+  },
+  "footer": {
+    "about_site": "Sayt haqida",
+    "contact": "Aloqa",
+    "ads": "Reklama",
+    "team": "Kun.uz jamoasi",
+    "download_on": "Yuklab olish",
+    "get_it_on": "GET IT ON",
+    "app_store": "App Store",
+    "google_play": "Google Play"
+  },
+  "common": {
+    "views": "ko'rish",
+    "save": "Saqlash",
+    "saved": "Saqlangan",
+    "back": "Ortga",
+    "loading": "Yuklanmoqda...",
+    "no_saved": "Saqlangan postlar yo'q",
+    "save_prompt": "Postlarni saqlash uchun ❤️ tugmasini bosing"
+  },
+  "news": {
+    "video": "VIDEO",
+    "watch": "Ko'rish"
+  }
+}
